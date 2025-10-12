@@ -1,0 +1,16 @@
+streamlit
+google-generativeai
+librosa
+soundfile
+numpy
+audio-recorder-streamlit
+
+streamlit
+google-generativeai
+numpy
+librosa
+audio_recorder_streamlit
+Pillow
+soundfile
+scipy
+requests
